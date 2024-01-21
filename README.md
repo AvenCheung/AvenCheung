@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">I'm AvenCheung</h1>
+<h1 align="center">I'm Aven Cheung</h1>
 <h3 align="center">A front-end developer from China full of ideals</h3>
 
 ### 🌈 Github Stats:
