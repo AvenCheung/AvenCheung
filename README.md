@@ -11,18 +11,18 @@
 
 ### 📫 How to reach me:
 - :octocat: [github@AvenCheung](https://github.com/AvenCheung)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
+- :email: [QQEmail@AvenCheung](mailto:1738238581@qq.com)
+- :tv: [bilibili@AvenCheung](https://space.bilibili.com/483897667)
+- :bird: [yuque@AvenCheung](https://www.yuque.com/avencheung)
 
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://AvenCheung.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
+| [Blogs](https://www.cnblogs.com/AvenCheung)
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
+1. 🍭 Write Articles on [Blog](https://www.cnblogs.com/AvenCheung) with [github](https://github.com/AvenCheung/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 <!--END_SECTION:activity-->
 
