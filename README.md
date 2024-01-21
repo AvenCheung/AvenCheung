@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" />
 </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=AvenCheung&theme=xcode" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" /> </div>
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=AvenCheung" /> </div>
 
@@ -33,6 +33,8 @@
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 
 <!--  skill badge 技能徽章 -->
+
+<div align="center">
 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -86,6 +88,7 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+</div>
 
 <!--END_SECTION:activity-->
 
