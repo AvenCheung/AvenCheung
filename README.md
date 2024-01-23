@@ -56,10 +56,10 @@
 - :tv: [bilibili@AvenCheung](https://space.bilibili.com/483897667)
 - :bird: [yuque@AvenCheung](https://www.yuque.com/avencheung)
 
-| :pencil2: | :book: |
+<!-- | :pencil2: | :book: |
 | --------- | ------ |
 
-| [Blogs](https://www.cnblogs.com/AvenCheung)
+| [Blogs](https://www.cnblogs.com/AvenCheung) -->
 
 ### ⚡ Recent Activity
 
