@@ -33,7 +33,8 @@
 ### 🌈 Github Stats
 
 <div align="center">
-  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@AvenCheung?theme=rule34"></a>
+  <img align="center" src="https://count.getloli.com/get/@AvenCheung?theme=rule34">
+  
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
 </div>
