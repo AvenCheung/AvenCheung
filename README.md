@@ -35,7 +35,7 @@
 <div align="center">
   <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/left.png" />
   <img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/base.svg" />
-  <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/AvenCheung/sunAvenCheung0225SUN/assets/images/right.png" />
+  <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/right.png" />
   <img src="https://count.getloli.com/get/@AvenCheung?theme=rule34">
   
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
