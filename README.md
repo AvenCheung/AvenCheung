@@ -4,6 +4,7 @@
 <h3 align="center">A front-end developer from China full of ideals</h3>
 
 ### 🌈 Github Stats
+<div align="center">
 
 <div align="center">
   <div>
@@ -189,8 +190,9 @@ Last Updated on 21/01/2024 01:26:20 UTC
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 </div>
 
-<!--END_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+</div>
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
