@@ -14,11 +14,11 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
+  <!-- <div>
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Aven%2C%20Cheung%22);&center=true&size=27" />
     </a>
-  </div>
+  </div> -->
 
   <!-- knock code pictures 敲代码的图片 -->
   <!-- <picture>
@@ -32,10 +32,10 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.cnblogs.com/AvenCheung"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/483897667/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_43970635/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/qing-si-mei-gui-dai-ci-zhu-an/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=AvenCheung&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
