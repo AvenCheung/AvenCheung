@@ -41,6 +41,8 @@
 1. 🍭 Write Articles on [Blog](https://www.cnblogs.com/AvenCheung) with [github](https://github.com/AvenCheung/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 
+<div align="center">
+
 <table>
 
 <tr><td>
@@ -125,6 +127,8 @@ Last Updated on 21/01/2024 01:26:20 UTC
       </picture>
   </tr>
 </table>
+
+</div>
 
 <!--  skill badge 技能徽章 -->
 
