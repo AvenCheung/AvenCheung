@@ -37,14 +37,15 @@
 </div>
 
 <div align="center">
-  <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@AvenCheung?theme=rule34"></a>
-</div>
-
-<div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=AvenCheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" />
+</div>
+<!-- GitHub 数据统计 -->
+<div>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvenCheung&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AvenCheung&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
