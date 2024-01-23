@@ -100,7 +100,7 @@
 
 <table>
 
-<!-- <tr><td>
+<tr><td>
 
 ### 📊 WakaTime
 
@@ -116,7 +116,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AvenCheung&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-</td></tr> -->
+</td></tr>
 
 <tr><td>
 
