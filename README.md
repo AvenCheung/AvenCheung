@@ -34,6 +34,78 @@
 1. 🍭 Write Articles on [Blog](https://www.cnblogs.com/AvenCheung) with [github](https://github.com/AvenCheung/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 
+<tr><td>
+
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+<table>
+
+</td></tr>
+
+<tr><td>
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                478 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+🌆 Daytime                650 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌃 Evening                597 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Thursday                 234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Friday                   579 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Saturday                 188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Sunday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Vue.js                   26 hrs 41 mins      ████████████████░░░░░░░░░   63.85 % 
+Markdown                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+JavaScript               2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+JSON                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Python                   2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+
+🔥 Editors: 
+VS Code                  41 hrs 48 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      41 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/01/2024 01:26:20 UTC
+<!--END_SECTION:waka-->
+  
+</td></tr>
+
+</table>
+
+
 <!--  skill badge 技能徽章 -->
 
 <div align="center">
