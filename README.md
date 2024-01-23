@@ -14,7 +14,6 @@
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" />
-  </div>
   <span>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -112,6 +111,19 @@ Last Updated on 21/01/2024 01:26:20 UTC
 
 </td></tr>
 
+</table>
+
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
 </table>
 
 <!--  skill badge 技能徽章 -->
