@@ -37,10 +37,8 @@
 </div>
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AvenCheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" />
 </div>
 <!-- GitHub 数据统计 -->
 <div align="center">
