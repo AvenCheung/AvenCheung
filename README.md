@@ -98,7 +98,6 @@
 
 # 🙋 Hello
 
-<div align="center">
 <table>
 
 <!-- <tr><td>
@@ -170,7 +169,6 @@ Last Updated on 21/01/2024 01:26:20 UTC
 </td></tr>
 
 </table>
-</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
