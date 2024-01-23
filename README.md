@@ -209,8 +209,6 @@ Last Updated on 21/01/2024 01:26:20 UTC
   <img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
-</div>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
 
