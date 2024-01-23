@@ -3,25 +3,6 @@
 <h1 align="center">I'm Aven Cheung</h1>
 <h3 align="center">A front-end developer from China full of ideals</h3>
 
-### 🌈 Github Stats
-
-<div align="center">
-  <div>
-    <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@AvenCheung?theme=rule34"></a>
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvenCheung&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img src = "https://github-readme-stats.vercel.app/api?username=AvenCheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" />
-  <span>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-</span>
-
-</div>
-
 ### 📫 How to reach me
 
 - :octocat: [github@AvenCheung](https://github.com/AvenCheung)
@@ -40,6 +21,25 @@
 
 1. 🍭 Write Articles on [Blog](https://www.cnblogs.com/AvenCheung) with [github](https://github.com/AvenCheung/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
+
+### 🌈 Github Stats
+
+<div align="center">
+  <div>
+    <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@AvenCheung?theme=rule34"></a>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvenCheung&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=AvenCheung&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvenCheung" />
+  <span>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+</span>
+
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
