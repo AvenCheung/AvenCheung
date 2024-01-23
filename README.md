@@ -34,6 +34,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvenCheung&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<div align="center">
   <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@AvenCheung?theme=rule34"></a>
 </div>
 
