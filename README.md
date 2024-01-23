@@ -42,7 +42,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
 
 <div align="center">
 
@@ -213,6 +213,43 @@ Last Updated on 21/01/2024 01:26:20 UTC
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
+
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/githubgif.gif" />
+
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <!-- <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr> -->
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
+
+<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+
+<!-- just img 图片 -->
+
+<img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/icon.png" /></div>
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
