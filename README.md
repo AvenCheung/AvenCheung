@@ -4,7 +4,6 @@
 <h3 align="center">A front-end developer from China full of ideals</h3>
 
 ### 🌈 Github Stats
-<div align="center">
 
 <div align="center">
   <div>
@@ -41,6 +40,9 @@
 
 1. 🍭 Write Articles on [Blog](https://www.cnblogs.com/AvenCheung) with [github](https://github.com/AvenCheung/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
 
@@ -116,7 +118,6 @@ Last Updated on 21/01/2024 01:26:20 UTC
 
 </table>
 
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
@@ -190,9 +191,30 @@ Last Updated on 21/01/2024 01:26:20 UTC
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 </div>
 
-
 <!--END_SECTION:activity-->
+
+<!-- gif -->
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/github.webp">
+
+<!-- profile-3d-contrib 3D贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
 </div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
+
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
