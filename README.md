@@ -96,8 +96,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
 
-<div align="center">
-
 <table>
 
 <tr><td>
@@ -181,8 +179,6 @@ Last Updated on 21/01/2024 01:26:20 UTC
       </picture>
   </tr>
 </table>
-
-</div>
 
 <!--  skill badge 技能徽章 -->
 
