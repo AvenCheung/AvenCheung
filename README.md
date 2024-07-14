@@ -83,13 +83,12 @@
 
 <div align="center">
   <img src="https://count.getloli.com/get/@AvenCheung?theme=rule34"><br>
-
-  <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/left.png" />
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula">
-  <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/right.png" />
-
+  <img align="left" width="110" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/left.png" />
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=AvenCheung&theme=dracula" width="460">
+  <img align="right" width="110"  src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/right.png" />
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvenCheung&theme=monokai">
 </div>
+
 <!-- GitHub 数据统计 -->
 <div align="center">
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvenCheung&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
