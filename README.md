@@ -1,5 +1,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
+
 <h1 align="center">I'm Aven Cheung</h1>
 <h3 align="center">A front-end developer from China full of ideals</h3>
 
@@ -121,44 +124,45 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                393 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-🌆 Daytime                476 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌃 Evening                540 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
-🌙 Night                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌞 Morning                393 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+🌆 Daytime                476 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 %
+🌃 Evening                540 commits         ████████░░░░░░░░░░░░░░░░░   32.71 %
+🌙 Night                  242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   329 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Wednesday                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Thursday                 367 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Friday                   310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Saturday                 142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Sunday                   70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Monday                   329 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Wednesday                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Thursday                 367 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 %
+Friday                   310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 %
+Saturday                 142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Sunday                   70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
+Last Updated on 22/04/2024 00:53:48 UTC
 
- Last Updated on 22/04/2024 00:53:48 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
@@ -176,6 +180,9 @@ No Activity Tracked This Week
       </picture>
   </tr>
 </table>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
 
 <!--  skill badge 技能徽章 -->
 
@@ -248,11 +255,11 @@ No Activity Tracked This Week
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D贡献图-->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+</picture> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
@@ -260,16 +267,19 @@ No Activity Tracked This Week
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/githubgif.gif" />
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
+
 <!-- second form 第二个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr> -->
+  </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
@@ -286,9 +296,12 @@ No Activity Tracked This Week
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-</table>
+</table> -->
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/AvenCheung/AvenCheung/assets/images/hr.gif" />
 
 <!-- just img 图片 -->
 
